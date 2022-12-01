@@ -12,6 +12,12 @@ Next to the data table there are five filter criteria in which a user can use to
 
 ![filters_webpage](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filters_webpage.png)
 
-The filters function in a manner that the user can choose a single filter or multiple filters for a given search. The user enters the filter/s values needed and then presses "enter" on their keyboard.  For example to filter on a single criteria such as for UFO sightings in the state of Texas the user enters "tx" in the "Enter State" filter and presses "enters" on their keyboard.  This examples appears as follows:
+The filters function in a manner that the user can choose a single filter or multiple filters for a given search. The user enters the filter/s values needed and then presses "enter" on their keyboard.  For example to filter on a single criteria such as UFO sightings in the state of Texas the user enters "tx" in the "Enter State" filter and presses "enters" on their keyboard.  This examples appears as follows:
 
 ![filter_tx_revised](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filter_tx_revised.png)
+
+To filter on multiple criteria such as UFO sightings in the state of Texas and the shape as light the user enters "tx" in the "Enter State" filter and "light" in the "Enter Shape" filter.  This example appears as follows:
+
+![filter_tx&light_revised](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filter_tx&light_revised.png)
+
+
