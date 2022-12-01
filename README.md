@@ -8,4 +8,6 @@ The purpose of this project is to enhance the filtering functionality for the en
 
 ## Results
 
+There are five filter criteria in which a user can use to further define their search; the filters are as follows: date, city, state, country, shape.  
+
 ![filters_webpage](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filters_webpage.png)
