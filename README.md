@@ -5,3 +5,7 @@ The focus of this project is to learn JavaScript by creating a table to organize
 
 ### Purpose
 The purpose of this project is to enhance the filtering functionality for the end user so that a more in-depth analysis of UFO sightings can be performed with the data set.  In addition to the "date" filter provided in the initial web site build "city", "state", "country" and "shape" filters will be created and made available for the end user.  The enhanced filtering will give the end user the ability to fine tune searches to meet their analysis needs.
+
+## Results
+
+![EmployeeDB_Revised](https://raw.githubusercontent.com/JBro-Birds/Pewlett-Hackard-Analysis/master/Data/EmployeeDB_Revised.png)
