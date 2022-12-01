@@ -21,3 +21,7 @@ To filter on multiple criteria such as UFO sightings in the state of Texas and t
 ![filter_tx&light_revised](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filter_tx&light_revised.png)
 
 *  To return to the full data set the user can refresh the webpage or remove the filter value/s and press "enter" on their keyboard.
+
+## Summary
+
+A drawback of the webpage is that the filter functionality is very basic.  The end user has to know the exact filter values to enter when filtering.  For example to filter on the state of Arkansas the user has to know the state abbreviation is "ar".  For the date filter only a single date can be filtered at a time.  Two recommendations to enhance the filtering functionality is to build in the ability for the end user to select a range of dates for a given search and for the other filters to function as drop-down selection fields for the end user to make selections.
