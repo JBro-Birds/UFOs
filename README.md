@@ -11,3 +11,7 @@ The purpose of this project is to enhance the filtering functionality for the en
 Next to the data table there are five filter criteria in which a user can use to further define their search; the filters are as follows: date, city, state, country, shape.  
 
 ![filters_webpage](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filters_webpage.png)
+
+The filters function in a manner that the user can choose a single filter or multiple filters for a given search. The user enters the filter/s values needed and then presses "enter" on their keyboard.  For example to filter on a single criteria such as for UFO sightings in the state of Texas the user enters "tx" in the "Enter State" filter and presses "enters" on their keyboard.  This examples appears as follows:
+
+![filter_tx_revised](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filter_tx_revised.png)
