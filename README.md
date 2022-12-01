@@ -20,4 +20,4 @@ To filter on multiple criteria such as UFO sightings in the state of Texas and t
 
 ![filter_tx&light_revised](https://raw.githubusercontent.com/JBro-Birds/UFOs/master/support_readme/filter_tx&light_revised.png)
 
-To return to the full data set the user can refresh the webpage or remove the filter value/s and press "enter" on their keyboard.
+*  To return to the full data set the user can refresh the webpage or remove the filter value/s and press "enter" on their keyboard.
